@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140606023544",
+    "project_id": "devsimulator-3bf10",
+    "storage_bucket": "devsimulator-3bf10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140606023544:android:6e75c00ce3d5a4d85b4a8d",
+        "android_client_info": {
+          "package_name": "com.devsim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDws2Q83pHVqXR2rb95yJDf6rgnhgATBjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
